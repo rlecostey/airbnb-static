@@ -1,0 +1,18 @@
+seb:
+  owner_picture: seb.jpg
+  owner_title: Seb's home
+  owner_description: Charming room with patio
+  city: Paris
+  city_picture: card-paris.jpg
+anne:
+  owner_picture: anne.jpg
+  owner_title: Anne's home
+  owner_description: Lovely house
+  city: Brussels
+  city_picture: card-brussels.jpeg
+romain:
+  owner_picture: romain.jpeg
+  owner_title: Romain's home
+  owner_description: Nice flat in Piccadilly
+  city: London
+  city_picture: card-london.jpeg
